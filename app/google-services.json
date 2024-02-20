@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762204842314",
+    "project_id": "group-study-app-44805",
+    "storage_bucket": "group-study-app-44805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762204842314:android:fe83cfd467dfa8e68939b3",
+        "android_client_info": {
+          "package_name": "com.example.groupstudyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATQFspTBxV3l3z1kptIiIthuekIGuNKTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
